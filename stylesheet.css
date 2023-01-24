@@ -16,6 +16,7 @@ h1 {
     font-size: 3em;
     color: #D82197;
     width: 80%;
+    height: 90%;
 }
 a:link {
     background-color: #E86E1C;
@@ -28,12 +29,6 @@ a:visited {
 a:hover {
     background-color: #BCE81C;
     color: #CF1CE8;
-}
-div {
-    background-image: url("Images/Professional-Photo.jpg");
-    width: 160px;
-    height: 70px;
-    background-repeat: repeat-y;
 }
 
 

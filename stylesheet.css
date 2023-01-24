@@ -18,7 +18,9 @@ h1 {
     color: #D82197;
     width: 80%;
 }
-
+p a { 
+    color: #00ffff
+}
 li>a {
     color: #000000
 }

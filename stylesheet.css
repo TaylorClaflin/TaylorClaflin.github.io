@@ -8,8 +8,9 @@ body {
     padding-right: 50px;
     padding-top: 50px;
     padding-bottom: 50px;
+    text-decoration: underline;
 }
 h1 {
     font-size: 3em;
-    color: #DB58AC;
+    color: #D82197;
 }

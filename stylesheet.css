@@ -10,8 +10,12 @@ body {
     padding-bottom: 50px;
     text-decoration: none;
     text-align: left;
+    text-transform: none;
 }
 h1 {
     font-size: 3em;
     color: #D82197;
+}
+ul {
+    color: #9D005D
 }

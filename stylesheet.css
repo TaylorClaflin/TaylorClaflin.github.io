@@ -17,6 +17,6 @@ h1 {
     color: #D82197;
     width: 80%;
 }
-a:link {
+li>a {
     color: #A0CE6C
 }

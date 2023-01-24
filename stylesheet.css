@@ -17,6 +17,9 @@ h1 {
     color: #D82197;
     width: 80%;
 }
-li>a {
-    color: #A0CE6C
+a:link {
+    color: forestgreen;
+    text-decoration-color: hotpink;
 }
+
+ 

@@ -11,12 +11,14 @@ body {
     text-decoration: none;
     text-align: left;
     text-transform: none;
-    list-style-type: circle;
+    
 }
 h1 {
     font-size: 3em;
     color: #D82197;
+    width: 50%;
 }
+
 ul {
     color: #000000
 }

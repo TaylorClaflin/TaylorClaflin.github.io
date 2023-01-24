@@ -8,9 +8,11 @@ body {
     padding-right: 50px;
     padding-top: 50px;
     padding-bottom: 50px;
-    text-decoration: underline;
+    text-decoration: none;
 }
 h1 {
     font-size: 3em;
     color: #D82197;
+    text-align: center;
+    
 }

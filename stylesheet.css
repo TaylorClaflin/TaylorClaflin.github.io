@@ -11,20 +11,12 @@ body {
     text-decoration: none;
     text-align: left;
     text-transform: none;
-}
-p {
-#box {
-    
-    font-size: .6em;
-    color: #fff;
-    width: 100px;
-    height: 100px;
-}
+    list-style-type: circle;
 }
 h1 {
     font-size: 3em;
     color: #D82197;
 }
 ul {
-    color: #9D005D
+    color: #000000
 }

@@ -11,15 +11,14 @@ body {
     text-decoration: none;
     text-align: left;
     text-transform: none;
-    
+    p a { 
+        color: #00ffff
+    }
 }
 h1 {
     font-size: 3em;
     color: #D82197;
     width: 80%;
-}
-p a { 
-    color: #00ffff
 }
 li>a {
     color: #000000

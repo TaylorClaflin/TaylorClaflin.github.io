@@ -19,6 +19,6 @@ h1 {
     width: 80%;
 }
 
-ul {
+li>a {
     color: #000000
 }

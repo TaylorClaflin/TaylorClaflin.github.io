@@ -30,5 +30,9 @@ a:hover {
     background-color: #BCE81C;
     color: #CF1CE8;
 }
-
+* {margin: 0; padding: 0;}
+    #wrapper {
+        width: 80%;
+        margin: auto;
+    }
 

@@ -10,7 +10,8 @@ body {
     padding-bottom: 50px;
     text-decoration: none;
     text-align: left;
-    text-transform: none;   
+    text-transform: none;  
+    background-repeat: repeat-x; 
 }
 h1 {
     font-size: 4em;

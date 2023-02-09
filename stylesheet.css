@@ -14,14 +14,6 @@ body {
     text-transform: none;  
     background-repeat: none; 
 }
-div {
-
-    background-image: url("Images/One.JPG");
-  
-    background-repeat: no-repeat;
-  
-    background-size: contain;
-}
 h1 {
     font-size: 4em;
     color: #CA4624;

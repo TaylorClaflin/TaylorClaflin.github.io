@@ -45,7 +45,8 @@ img {
 #one {
     color:#1C66E8;
     width: 50%;
-    line-height: 4.63em;
+    line-height: 1.63em;
+    padding-bottom: 20%;
 }
 wrapper {
             width: 80%;

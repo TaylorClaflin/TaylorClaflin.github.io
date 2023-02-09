@@ -14,7 +14,14 @@ body {
     text-transform: none;  
     background-repeat: none; 
 }
+div {
 
+    background-image: url("Images/One.JPG");
+  
+    background-repeat: no-repeat;
+  
+    background-size: contain;
+}
 h1 {
     font-size: 4em;
     color: #CA4624;
@@ -43,15 +50,7 @@ img {
         width: 400px;
         border: 3px solid #73AD21;
 }
-div {
 
-    background-image: url("Images/One.JPG");
-  
-    background-repeat: no-repeat;
-  
-    background-size: contain;
-  
-  }
 wrapper {
             width: 80%;
             margin: auto;

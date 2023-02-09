@@ -44,8 +44,10 @@ img {
     margin: auto;
     }
 #containerone {
-    background-color: #1CE8DE;
-    width: 16.66%;
+    background-color: pink;
+    width: 50%;
+    line-height: 2em;
+
 
 }
 

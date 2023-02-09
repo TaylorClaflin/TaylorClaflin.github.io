@@ -47,11 +47,9 @@ wrapper {
             width: 80%;
             margin: auto;
 }
-
-.myDiv {
-    border: 5px outset red;
-    background-color: lightblue;
-    text-align: center;
+div {
+background: pink;
+    width: 500px;
 }
 
 

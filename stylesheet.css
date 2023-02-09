@@ -45,9 +45,10 @@ img {
 div {
     background: pink;
         width: 800px;
-        padding-top: 50px;
-
     }
+div {
+    padding: 30px;
+}
 wrapper {
             width: 80%;
             margin: auto;

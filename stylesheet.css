@@ -33,35 +33,17 @@ a:hover {
     background-color: #BCE81C;
     color: #CF1CE8;
 }
-* {margin: 10; padding: 5;}
-    #wrapper {
-        width: 80%;
-        margin: auto;
-}
+ 
 img {
         position: relative;
         width: 400px;
         border: 3px solid #73AD21;
 }
-#one {
-    color:#1C66E8;
-    width: 50%;
-    line-height: 1.63em;
-    padding-bottom: 20%;
-}
-#two {
-    width: 320px;
-    padding: 10px;
-    border: 5px solid gray;
-    margin: 0;
-  }
   #wrapper {
     width: 80%;
     margin: auto;
     }
-#box {
-    color: pink;
-}
+
 
 
 

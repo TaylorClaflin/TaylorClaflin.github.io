@@ -44,9 +44,9 @@ img {
     margin: auto;
     }
 #containerone {
-    background-color: pink;
-    line-height: 2em;
-    position: relative;
+    width: 80%;
+margin: auto;
+position: relative;
 }
 
 

@@ -55,6 +55,10 @@ img {
     border: 5px solid gray;
     margin: 0;
   }
+  #wrapper {
+    width: 80%;
+    margin: auto;
+    }
 
 
 

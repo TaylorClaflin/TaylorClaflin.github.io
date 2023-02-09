@@ -42,12 +42,10 @@ img {
         width: 400px;
         border: 3px solid #73AD21;
 }
-div {
-    background: pink;
-        width: 800px;
-    }
-#box1 {
-    width: 500px;
+#one {
+    color:#1C66E8;
+    width: 50%;
+    
 }
 wrapper {
             width: 80%;

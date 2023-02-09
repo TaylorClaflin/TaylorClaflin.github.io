@@ -13,8 +13,8 @@ body {
     text-align: left;
     text-transform: none;  
     background-repeat: none; 
-   
 }
+
 h1 {
     font-size: 4em;
     color: #CA4624;
@@ -33,7 +33,7 @@ a:hover {
     background-color: #BCE81C;
     color: #CF1CE8;
 }
- 
+
 img {
         position: relative;
         width: 400px;
@@ -42,20 +42,21 @@ img {
   #wrapper {
     width: 80%;
     margin: auto;
-    }
-#containerone {
-    width: 80%;
-margin: auto;
-position: relative;
-}
+ }
 nav {
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
-    background-color: rgb(255, 229, 133);
+    background-color: rgb(99, 75, 130);
     }
+    @media only screen and (min-width: 481px)and(max-width: 767px) {
+     
+    }
+#containerone {
+    color: blueviolet;
+    display: grid;
+    align-content: center;
+}
 
 
-
-      

@@ -42,15 +42,15 @@ img {
         width: 400px;
         border: 3px solid #73AD21;
 }
-
+div {
+    background: pink;
+        width: 500px;
+    }
 wrapper {
             width: 80%;
             margin: auto;
 }
-div {
-background: pink;
-    width: 500px;
-}
+
 
 
       

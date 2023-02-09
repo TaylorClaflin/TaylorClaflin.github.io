@@ -48,6 +48,13 @@ img {
 margin: auto;
 position: relative;
 }
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: green;
+    }
 
 
 

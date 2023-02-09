@@ -1,6 +1,4 @@
-#wrapper {
-    width: 80%;
-    margin: auto;
+
 body {
     line-height: 1.6em;
     background-color: #FFF9E7;
@@ -39,5 +37,5 @@ a:hover {
         width: 80%;
         margin: auto;
     }
-}
+
 

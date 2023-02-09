@@ -13,6 +13,10 @@ body {
     text-align: left;
     text-transform: none;  
     background-repeat: none; 
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
 }
 h1 {
     font-size: 4em;
@@ -48,12 +52,7 @@ img {
     line-height: 1.63em;
     padding-bottom: 20%;
 }
-#two {
-    width: 320px;
-    padding: 10px;
-    border: 5px solid gray;
-    margin: 0;
-  }
+
 
 
 

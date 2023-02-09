@@ -46,7 +46,7 @@ img {
 #containerone {
     background-color: pink;
     line-height: 2em;
-    position: fixed;
+    position: sticky;
 }
 
 

@@ -46,8 +46,8 @@ div {
     background: pink;
         width: 800px;
     }
-div {
-    padding: 30px;
+#box1 {
+    color: green;
 }
 wrapper {
             width: 80%;

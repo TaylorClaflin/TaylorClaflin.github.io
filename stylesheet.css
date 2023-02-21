@@ -1,5 +1,11 @@
+body {
+    font-family: ‘Roboto’, sans-serif;
+}
 h1 {
     padding-top: 3%;
+}
+img {
+    position: relative;
 }
 nav {
     position: fixed;
@@ -7,6 +13,7 @@ nav {
     left: 0;
     width: 100%;
     background: pink;
+    
 }
 ul {
     list-style-type: none;
@@ -16,3 +23,5 @@ li {
     padding: 1em;
     white-space: nowrap;
 }
+
+

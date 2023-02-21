@@ -1,27 +1,6 @@
-body {
-    font-family: ‘Roboto’, sans-serif;
-}
 h1 {
-    padding-top: 3%;
+    font-family:'Gill Sans MT', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif';
 }
-img {
-    position: relative;
-}
-nav {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background: pink;
-    
-}
-ul {
-    list-style-type: none;
-}
-li {
-    display: inline;
-    padding: 1em;
-    white-space: nowrap;
-}
+
 
 

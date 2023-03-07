@@ -1,0 +1,94 @@
+body {
+    background:#000;
+    }
+
+h1{
+font-family: "miller-headline", serif;
+font-weight: 300;
+font-style: normal; 
+color: white;
+padding-top: 1em;
+text-align: center;
+}
+
+img {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+h4 {
+  padding-top: 50px;
+}
+
+nav {
+  position: fixed;
+  top: 0; 
+  width: 100%;
+  height: 10em;
+  background-color: transparent;
+  z-index: 1;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  text-align: left;
+}
+
+ul {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  text-align: left;
+}
+
+.list {
+  padding-top: 10em;
+}
+
+h4 {
+  text-align: left; 
+  
+}
+
+.two {
+  padding-top: 20em;
+}
+
+.nick {
+  padding-top: 20em;
+}
+
+body {
+  background-color: #111;
+  font-family: "miller-headline", serif;
+  display: flex;
+  justify-content: center;
+  align-items: left;
+  min-height: 100vh;
+}
+.waviy {
+  position: relative;
+}
+.waviy span {
+  position: relative;
+  display: inline-block;
+  font-size: 60px;
+  color: #fff;
+  text-transform: uppercase;
+  animation: flip 3s infinite;
+  animation-delay: calc(.2s * var(--i))
+}
+@keyframes flip {
+  0%,80% {
+    transform: rotateY(360deg) 
+  }
+}
+
+.button-submit {
+  justify-content: center;
+}

@@ -1,5 +1,5 @@
 body {
-    background:#000;
+  background: black;
     }
 
 h1{
@@ -26,14 +26,8 @@ h4 {
 }
 
 
-nav {
-  position: fixed;
-  top: 0; 
-  width: 100%;
-  height: 10em;
-  background-color: transparent;
-  z-index: 1;
-}
+
+
 * {
   padding: 0;
   margin: 0;
@@ -61,6 +55,7 @@ ul {
 h4 {
   text-align: left; 
   font-size: 18px;
+  transition: color 1s;
 }
 
 
@@ -74,6 +69,7 @@ body {
 }
 .waviy {
   position: relative;
+
 }
 .waviy span {
   position: relative;
@@ -130,5 +126,6 @@ input[type="button"].button-primary:focus {
  .zoom:hover {
     transform: scale(1.2);
  }
+
 
  

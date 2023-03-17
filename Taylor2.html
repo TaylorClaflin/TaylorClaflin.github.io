@@ -26,9 +26,18 @@
     }
     #nick {
         font-family: 'Fira Code', monospace;
-        padding-top: 1em;
         font-size: 40px;
         color: orangered;
+        transition: color 1s;
+        text-align: left;
+        padding-top: 1em;
+    }
+
+
+
+    #nick:hover {
+        color: #fabf61;
+
     }
 
     #joe {
@@ -36,6 +45,11 @@
         padding-top: 1em;
         font-size: 40px;
         color: blue;
+        transition: color 1s;
+    }
+
+    #joe:hover {
+        color: lightblue;
     }
 
     #kevin {
@@ -43,6 +57,11 @@
         padding-top: 1em;
         font-size: 40px;
         color:green;
+        transition: color 1s;
+    }
+
+    #kevin:hover {
+        color: lightgreen;
     }
 
     #linkone {
@@ -53,15 +72,25 @@
         padding-top: 2em;
     }
 
- 
+#two-columns a{
+    size: 5em;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+
 
 
     </style>
 
 <body> 
- 
+ <nav>
+
         <div class="container">
-            <div class="rows">        
+            <div class="rows">   
+                 
         <h1> 
             <div class="waviy">
                 <span style="--i:1">J</span>
@@ -79,12 +108,10 @@
                 <span style="--i:12">R</span>
                 <span style="--i:14">S</span>
                </div>
-        <button class="button-primary"> <a href="http://www.https://jonasbrothers.com/">SITE</a></button>
-        <button class="button-primary"> <a href="http://www.https://instagram.com/jonasbrothers/">INSTAGRAM</a></button>
-       
+           
                <hr>
                <br><br>
-          
+            
               
 <article>
 
@@ -94,11 +121,14 @@
                 </div>
                 <div class="five columns">
                     
-                        <h4 id="nick">NICK</h4>
+                    <strong><h4 id="nick">NICK</h4></strong>
+                  
+
                         <p>Some might know him as Nicholas Jerry Jonas, born September 16th 1992
                             as the youngest Jonas Brother, but long-time fans like to think of him as Nate Gay from Camp Rock, for his performance of 
                             Introducing me (he does not like cheese). A complete “zaddy” according to entertainment TV, Nick Jonas has never stopped
-                            being our celebrity heart throb.</p>                    
+                            being our celebrity heart throb.</p>    
+                 
                 </div>
         </div>
 </article>
@@ -110,7 +140,7 @@
      </div>
      <div class="five columns">
          
-             <h4 id="joe">JOE</h4>
+             <strong><h4 id="joe">JOE</h4></strong>
              <p>Notably the hottest Jonas, Joe Adam Jonas swept the nation with his iconic side bangs. A Leo king looking his best in a wet white tee and black skinny jeans, he’d never thought he’d catch that love bug again. He is best known for his cover of “Single Ladies” by Beyonce, which is still raking in views to this day.</p>                    
      </div>
 </div>
@@ -123,8 +153,8 @@
      </div>
      <div class="five columns">
          
-             <h4 id="kevin">KEVIN</h4>
-             <p>Paul Kevin Jonas is the elder Jonas. The quiet, sweetheart of the group, Kevin arguably carried the group on his shoulders, being the best guitarist in the world according to his fan base. He is best known for his goofy side characters in Disney’s Camp Rock, and his solos appearances in their music videos.</p>                    
+             <strong><h4 id="kevin">KEVIN</h4></strong>
+             <p>Paul Kevin Jonas is the elder Jonas. The quiet, sweetheart of the group, Kevin arguably carried the group on his shoulders, being the best guitarist in the world according to his fan base. He is best known for his goofy side characters in Disney’s Camp Rock, and his solo appearances in their music videos.</p>                    
      </div>
 </div>
 </article>
@@ -263,6 +293,7 @@
        </ul>
 </div>          
 </div>
+
 
 </div>
 </article>
